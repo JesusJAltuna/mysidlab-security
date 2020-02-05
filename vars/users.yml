@@ -1,8 +1,8 @@
 ---
 users:
-  - name: user1
+  - name: jesse_user1
     aws_groups: "jesse_sacramento, jesse_fresno, jesse_indio"
-  - name: user2
+  - name: jesse_user2
     aws_groups: "jesse_losangeles, jesse_sanfrancisco, jesse_napa"
-  - name: user3
+  - name: jesse_user3
     aws_groups: "jesse_palmsprings, jesse_indio, jesse_sandiego"
