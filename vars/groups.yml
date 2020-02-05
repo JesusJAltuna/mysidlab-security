@@ -1,10 +1,10 @@
 ---
 aws_groups:
-  - fresno
-  - sacramento
-  - losangeles
-  - sanfrancisco
-  - indio
-  - palmsprings
-  - sandiego
-  - napa
+  - jesse_fresno
+  - jesse_sacramento
+  - jesse_losangeles
+  - jesse_sanfrancisco
+  - jesse_indio
+  - jesse_palmsprings
+  - jesse_sandiego
+  - jesse_napa
